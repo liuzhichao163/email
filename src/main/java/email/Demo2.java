@@ -13,6 +13,7 @@ import javax.mail.internet.AddressException;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
+//自己构建邮件
 public class Demo2 {
 
 	public static void main(String[] args) throws AddressException, MessagingException {
